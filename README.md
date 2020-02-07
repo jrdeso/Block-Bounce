@@ -1,11 +1,13 @@
 # Block Bounce
 Team Members:
 
+Jordan Deso
+
 Connor Burleson
 
 Kevin Yeung
 
-Jordan Deso
+
 
 # Program Description:
 We created a game called "Block Bounce." This game is a siderunner in which there is a block that the user controls to 
